@@ -1,3 +1,5 @@
+This is the middle east version of Readme!
+
 This script supports staging HPoC clusters for [Nutanix Workshops](https://nutanix.handsonworkshops.com/).
 It automates the majority of the [Workshop Setup Guide](http://www.nutanixworkshops.com/en/latest/setup/).
 After HPoC Foundation, you can have push-button Calm in about half an hour!
